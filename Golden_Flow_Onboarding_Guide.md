@@ -1,6 +1,6 @@
 # Golden Flow Design: A Faster Way to Find Clarity in Early Product Work
 
-Every designer knows the moment when a project starts in the fog. Requirements are incomplete, the domain is unfamiliar, stakeholders disagree, and yet forward motion is expected. Many designers respond by jumping straight into polished UI—not because it’s the right move, but because it feels like the only way to show progress, or obligation to use the design system. But, we're not there yet.
+**Every designer** knows the moment when a project starts in the fog. Requirements are incomplete, the domain is unfamiliar, stakeholders disagree, and yet forward motion is expected. Many designers respond by jumping straight into polished UI—not because it’s the right move, but because it feels like the only way to show progress, or obligation to use the design system. But, we're not there yet.
 
 Golden Flow Design offers an alternative path.
 
@@ -140,13 +140,13 @@ A high-altitude golden flow for an SRE might look like:
 ## Why This Accelerates Discovery
 Teams using Golden Flow Design tend to:
 
-* Align faster
-* Test assumptions earlier
-* Reduce redesign and rework
-* Avoid wasted time on premature detail
-* Stay focused on outcomes
-* Produce clearer user journeys
-* Build confidence through repeated learning
+- Align faster
+- Test assumptions earlier
+- Reduce redesign and rework
+- Avoid wasted time on premature detail
+- Stay focused on outcomes
+- Produce clearer user journeys
+- Build confidence through repeated learning
 
 This method treats design as **iterative knowledge-building**: start with the bones, test assumptions, and strengthen the solution through rapid feedback loops.
 
@@ -156,10 +156,8 @@ It values **progress over perfection**—especially in early ambiguity.
 
 ## Making It a Habit
 Golden Flow Design isn’t a deliverable—it’s a mindset.
-
 At the beginning of every new project, ask:
 
 **What is the golden flow?**
-
 If your team can answer it, you’re ready to move.
 If they can’t, this process will help you find the clarity you need.
