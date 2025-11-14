@@ -24,15 +24,13 @@ This process is intentionally rough early on because the goal isn’t finalizati
   ---
 
 ## What is a Golden Flow?
+![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
 
 Sometime referenced as a *Critical User Journey*, or *CJU*, **a golden flow is the primary journey** a user takes to accomplish their core goal—the 80% path your product must get right before anything else matters. It’s the backbone of the experience. Everything else is secondary until this is understood and validated.
 
 Golden flows ignore edge cases, surface detail, and optional paths. They deliberately strip the experience down to the sequence that delivers value. As understanding increases, the flow can be explored at lower “altitudes” of detail.
 
-![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
 
-
-  
 ### An example we can all understand (travel site)
 Consider the last time you traveled. I bet your journey was similar to this:
 
