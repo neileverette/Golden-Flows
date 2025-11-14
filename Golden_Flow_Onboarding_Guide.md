@@ -3,11 +3,19 @@
 
   
 
-**Every designer** knows the moment when a project starts in the fog. Requirements are incomplete, not there, or written in a way that doesn't click. The domain is unfamiliar, stakeholders disagree, and yet forward motion is expected. Many designers respond by jumping straight into UI design—not because it’s the right tool for the job, but because it feels like the only way to show progress, or obligation to use the design system. But, we're not there yet.
+**We’ve all been there.** A new project lands in your lap—big, ambitious, and lacking clarity. Maybe the requirements are incomplete, vague, or not written at all. The technical domain feels dense, maybe even cryptic, and nothing quite clicks. Stakeholders don’t share the same picture—or worse, they disagree and have competing objectives. Yet you’re the one in the middle, expected to move things forward, and everyone is looking at you.
+
+The natural instinct is to jump straight into UI design: open the design system toolkit, start assembling screens, and show something that looks like progress. It feels productive, almost like an obligation. But at this stage, it’s the wrong tool.
+
+This is the moment you shift from UI designer to a more holistic product designer. That shift seems small, but it’s crucial. It means focusing less on concrete screens and more on how things work, how users achieve their goals, and what the system really needs to be. You slow things down, dig into the details, explore the technology, learn the domain, and wade through the ambiguity. Your job is to bring shape to the chaos.
+
+This article is about that early-stage approach—how to use your product design skills to clarify the problem space, align stakeholders, and guide everyone toward a shared understanding. You’re not just designing a solution; you’re helping the team see the problem clearly enough to build the right thing together.
 
 **Golden Flow Design offers an alternative path.**
 
-It’s a simple, low-fidelity, flow-first method that helps teams understand the problem, test assumptions, and align quickly—before committing to expensive detail. Instead of designing UI, you design the customer experience and leverage design as a make-to-learn method to build understanding. Instead of polishing mockups, you learn your way into clarity.
+Golden Flow Design is a simple, low-fidelity, customer-journey method that helps teams see the problem clearly, test assumptions, and align early—long before committing to detailed UI work. Instead of jumping into interface design, you focus on the experience: the steps a user takes, the intent behind each moment, and how the system supports that flow.
+
+It’s both a learning process and an alignment process. You use your design skills to visualize the journey, not to polish mockups. By making to learn—not making to ship—you build understanding, uncover gaps, and guide the team toward clarity.
 
 This process is intentionally rough early on because the goal isn’t finalization—it’s ***a learning and alignment process***. 
 
@@ -40,12 +48,12 @@ Sound familiar? Yep, we can map that. Each step later can have its own deep-dive
 ## Why Focusing on the Golden Flow Works
 Golden flows shift attention from **features** to **purpose**. By anchoring the team on the core journey, they:
 
-* Reduce ambiguity early in the process
-* Exposes incorrect assumptions quickly
-* Prevents distraction from secondary details and side-quests
-* Gives cross-functional groups a visual shared reference
-* Ensures micro-details don’t get cloud progress
-* Support rapid iteration and early conceptual testing
+- Reduce ambiguity early in the process
+- Exposes incorrect assumptions quickly
+- Prevents distraction from secondary details and side-quests
+- Gives cross-functional groups a visual shared reference
+- Ensures micro-details don’t get cloud progress
+- Support rapid iteration and early conceptual testing
 
 Most importantly, they help teams avoid jumping into details of UI too early—a common trap where fidelity misrepresents how much is actually understood.
 
@@ -54,29 +62,29 @@ Most importantly, they help teams avoid jumping into details of UI too early—a
 ## The Real Problem: Fidelity Too Early
 Designers will often start with high-fidelity, component screens because modern design systems make it a little too easy. But this can create issues in early stage work:
 
-* Stakeholders can get distracted on detail, or "side quests"
-* Early assumptions can become locked in - difficult to back out of
-* The design appear more stated intent, than "open-canvas", collaborative work
-* Teams spend time perfecting details that aren't core at the moment
-* The fidelity does not accurately match the maturity of thinking
+- Stakeholders can get distracted on detail, or "side quests"
+- Early assumptions can become locked in - difficult to back out of
+- The design appear more stated intent, than "open-canvas", collaborative work
+- Teams spend time perfecting details that aren't core at the moment
+- The fidelity does not accurately match the maturity of thinking
 
 Golden Flow Design replaces this with work that looks intentionally rough—like draft models—signaling exploration, not commitment.
 
 ### Consider Two Toolkits
 
 **Low-Fidelity Toolkit - early stage**
-* Rough frames
-* Implied structure
-* Minimal text
-* Blocked/Greeked details
-* Ideal for early discovery
-* Mural is great at this, as it forces a crude level of detail.
+- Rough frames
+- Implied structure
+- Minimal text
+- Blocked/Greeked details
+- Ideal for early discovery
+- Mural is great at this, as it forces a crude level of detail.
   
 
 **UI Component Toolkit**
-* Used only after the flow is validated
-* Appropriate for refinement and delivery
-* Figma is the tool of choice
+- Used only after the flow is validated
+- Appropriate for refinement and delivery
+- Figma is the tool of choice
 
 ---
 
@@ -93,10 +101,10 @@ This forces clarity, exposes missing pieces, and ensures you aren’t inheriting
 Write a short “press release” and FAQ describing the ideal outcome at launch.
 This helps the team align on:
 
-* Who the customer is
-* Why the solution matters
-* The business impact
-* How it would be positioned if it shipped
+- Who the customer is
+- Why the solution matters
+- The business impact
+- How it would be positioned if it shipped
 
 It gives everyone a clear picture of the **destination** before exploring the **path**.
 
