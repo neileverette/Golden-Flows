@@ -29,6 +29,9 @@ Sometime referenced as a *Critical User Journey*, or *CJU*, **a golden flow is t
 
 Golden flows ignore edge cases, surface detail, and optional paths. They deliberately strip the experience down to the sequence that delivers value. As understanding increases, the flow can be explored at lower “altitudes” of detail.
 
+![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
+
+
   
 ### An example we can all understand (travel site)
 Consider the last time you traveled. I bet your journey was similar to this:
