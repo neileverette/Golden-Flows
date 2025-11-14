@@ -167,11 +167,9 @@ It values **progress over perfection**—especially in early ambiguity.
 
 ---
 
-## Making It a Habit
+## Making It Habitual
 
-Golden Flow Design isn’t a deliverable—it’s a mindset.
-
-At the beginning of every new project, ask:
+Golden Flow Design isn’t a deliverable—it’s a process. It teaches teams to think in terms of the user’s core journey, use design as a learning tool, and move forward with intention instead of guesswork.
 
 **What is the golden flow?**
 
