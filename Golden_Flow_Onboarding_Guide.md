@@ -42,7 +42,7 @@ Consider the last time you traveled. I bet your journey was similar to this:
 6. Purchase - commitment
 7. Confirmation - validate it went through
 
-![Sample Journey](https://github.com/neileverette/Golden-Flows/blob/main/Screenshot%202025-11-14%20at%2011.31.58%E2%80%AFAM.png)
+![Sample Journey](https://github.com/neileverette/Golden-Flows/blob/main/flight-flow.png)
 
 
 Sound familiar? Yep, we can map that. Each step later can have its own deep-dive into its own Golden Flow.
@@ -74,7 +74,7 @@ Designers will often start with high-fidelity, component screens because modern 
 
 Golden Flow Design replaces this with work that looks intentionally rough—like draft models—signaling exploration, not commitment.
 
-![Sample Journey](https://github.com/neileverette/Golden-Flows/blob/main/fidelty.png)
+![Mapping of fidelity](https://github.com/neileverette/Golden-Flows/blob/main/fidelty.png)
 
 ### Consider Two Toolkits
 
