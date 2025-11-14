@@ -1,137 +1,177 @@
 # Golden Flow Design: A Faster Way to Find Clarity in Early Product Work
 
-Every designer knows the moment when a project starts in the fog. Requirements are incomplete, the domain is unfamiliar, stakeholders disagree, and yet the team expects forward motion. Most of the time, designers respond by jumping straight into polished UI—not because it’s the right move, but because it feels like the only way to make progress.
+Every designer knows the moment when a project starts in the fog. Requirements are incomplete, the domain is unfamiliar, stakeholders disagree, and yet forward motion is expected. Many designers respond by jumping straight into polished UI—not because it’s the right move, but because it feels like the only way to show progress.
 
 Golden Flow Design offers a better path.
 
 It’s a simple, low-fidelity, flow-first method that helps teams understand the problem, test assumptions, and align quickly—before committing to expensive detail. Instead of designing surfaces, you design understanding. Instead of polishing mockups, you learn your way into clarity.
 
----
-
-## What a golden flow actually is
-
-A **golden flow** is the primary journey a user takes to accomplish their core goal—the 80% path your product must get right before anything else matters. It’s the backbone of the experience. Everything else is secondary until this is understood and validated.
-
-Golden flows are deliberately simple. They ignore edge cases, optional steps, and UI decoration. They strip the experience down to the essential sequence that delivers value.
-
-**Example:**
-
-For a travel site, the golden flow isn’t “everything a traveler can possibly do.”  
-It’s simply:
-
-1. search for flights  
-2. evaluate options  
-3. choose a flight  
-4. customize selections  
-5. review  
-6. purchase  
-
-If this primary path doesn’t work, nothing else matters.
+This process is intentionally rough early on because the goal isn’t finalization—it’s **learning**. Fidelity follows understanding, not the other way around.
 
 ---
 
-## Why focusing on the golden flow works
+## What a Golden Flow Actually Is
 
-Golden flows work because they shift attention from *features* to *purpose*. By keeping the team anchored on the core journey, they:
+A golden flow is the primary journey a user takes to accomplish their core goal—the 80% path your product must get right before anything else matters. It’s the backbone of the experience. Everything else is secondary until this is understood and validated.
 
-- reduce ambiguity early  
-- expose incorrect assumptions quickly  
-- prevent distraction from secondary details  
-- give cross-functional groups a shared reference  
-- provide a structure for iteration and learning  
+Golden flows ignore edge cases, surface detail, and optional paths. They deliberately strip the experience down to the sequence that delivers value. As understanding increases, the flow can be explored at higher “altitudes” of detail.
 
-Most importantly, they help designers and teams avoid designing “perfect” micro-flows that don’t connect when assembled.
+### Example (travel site)
 
----
-
-## The real problem: fidelity too early
-
-High-fidelity work is often produced before designers truly understand the product, domain, or user. Modern design systems make it easy to drag in polished components, which unintentionally communicates that decisions have already been made.
-
-The side effects:
-
-- stakeholders react to visual details instead of the idea  
-- teams debate labels instead of goals  
-- early assumptions become locked in too soon  
-- the design looks more finished than the thinking behind it  
-
-Golden Flow Design replaces this with a process where **fidelity matches the maturity of understanding**. Early work looks intentionally rough—more like clay models than screens. This signals exploration and invites collaboration.
+1. Search for flights  
+2. Evaluate options  
+3. Select flight  
+4. Choose options  
+5. Review  
+6. Purchase  
+7. Confirmation
 
 ---
 
-## The method in practice
+## Why Focusing on the Golden Flow Works
 
-Golden Flow Design is built on small, fast learning loops, each increasing resolution only when justified.
+Golden flows shift attention from **features** to **purpose**. By anchoring the team on the core journey, they:
 
-### 1. Start with a short narrative
+- Reduce ambiguity early  
+- Expose incorrect assumptions quickly  
+- Prevent distraction from secondary details  
+- Give cross-functional groups a shared reference  
+- Ensure micro-flows don’t get designed in isolation  
+- Support rapid iteration and early conceptual testing  
 
-Define the user, their situation, their goal, and the outcome they’re trying to achieve. This replaces missing requirements and forces early clarity.
-
-### 2. Map the core steps
-
-Lay out the sequence the user takes from start to completion. Keep it broad. At this stage you’re shaping logic, not UI.
-
-### 3. Create minimal frames
-
-Turn the steps into rough wireframes. Only highlight what matters. Greek or block the details. Use placeholders for anything nonessential.
-
-### 4. Run micro-iterations
-
-Review the flow with SMEs, PMs, engineers, and users. Each conversation reveals gaps, misunderstandings, and new insights. Update the frames quickly and keep moving.
-
-### 5. Increase fidelity gradually
-
-Move to structured wireframes only once the flow makes sense. Move to high fidelity only when the concept is validated. Fidelity follows understanding—not the other way around.
-
-Here’s the fidelity progression at a glance:
-
-| fidelity | purpose              | output                            | when to use      |
-| ------- | -------------------- | --------------------------------- | ---------------- |
-| low     | explore & align      | sketches, simple wires            | early discovery  |
-| mid     | structure & validate | structured wires, clickable flows | after alignment  |
-| high    | finalize & deliver   | polished UI, prototypes           | after validation |
+Most importantly, they help teams avoid jumping into polished UI too early—a common trap where fidelity misrepresents how much is actually understood.
 
 ---
 
-## A quick example
+## The Real Problem: Fidelity Too Early
 
-Take a Site Reliability Engineer responsible for application stability.
+Designers often start with high-fidelity screens because modern design systems make it easy. But this creates issues:
 
-Their high-altitude golden flow might look like:
+- Stakeholders focus on labels, spacing, and UI polish  
+- Early assumptions become locked in  
+- The design appears more stated intent than “open canvas”  
+- Teams spend time perfecting details that aren't core at the moment  
+- The fidelity does not accurately match the maturity of thinking  
 
-1. detect an issue  
-2. identify the cause  
-3. remediate  
-4. confirm stability  
+Golden Flow Design replaces this with work that looks intentionally rough—like clay models—signaling exploration, not commitment.
+
+### Two Toolkits
+
+**Low-Fidelity Toolkit**
+- Rough frames  
+- Implied structure  
+- Minimal text  
+- Blocked/Greeked details  
+- Ideal for early discovery  
+
+**UI Component Toolkit**
+- Used only after the flow is validated  
+- Appropriate for refinement and delivery  
+
+---
+
+## The Method in Practice
+
+Golden Flow Design is built on **fast, small learning loops**, each increasing resolution only when understanding matures.
+
+Below is the full method with the two optional steps integrated:
+
+### 0. (Optional) Rewrite the Requirements in Your Own Words
+
+Before designing anything, restate the requirements in a way that makes sense to you.  
+This forces clarity, exposes missing pieces, and ensures you aren’t inheriting assumptions blindly.
+
+### 0.5. (Optional) Envision the Future State with a PRFAQ
+
+Write a short “press release” and FAQ describing the ideal outcome at launch.  
+This helps the team align on:
+
+- Who the customer is  
+- Why the solution matters  
+- The business impact  
+- How it would be positioned if it shipped  
+
+It gives everyone a clear picture of the **destination** before exploring the **path**.
+
+### 1. Start with a Short Narrative
+
+Describe the user, their situation, their goal, and the outcome they’re trying to achieve.  
+This replaces missing requirements and forces early clarity.
+
+### 2. Map the Core Steps
+
+Lay out the essential sequence from start to completion.  
+Keep it broad—this is shaping logic, not UI.
+
+### 3. Create Minimal Frames
+
+Turn the steps into rough wireframes.  
+Highlight only what matters; Greek or block everything else.  
+Use implied elements to avoid unnecessary detail that could distract stakeholders.
+
+### 4. Run Micro-Iterations
+
+Share early and often with PMs, SMEs, engineers, and users.  
+Each loop reveals gaps and misunderstandings.  
+Low-fidelity makes changes cheap, which makes learning fast.
+
+### 5. Increase Fidelity Gradually
+
+Move to mid-fidelity only when the flow works.  
+Move to high fidelity only after the concept is validated.  
+Fidelity follows understanding—not the other way around.
+
+---
+
+## Fidelity Progression
+
+| Fidelity | Purpose              | Output                            | When to Use      |
+| -------- | -------------------- | --------------------------------- | ---------------- |
+| Low      | Explore & align      | Sketches, simple wires            | Early discovery  |
+| Mid      | Structure & validate | Structured wires, clickable flows | After alignment  |
+| High     | Finalize & deliver   | Polished UI, prototypes           | After validation |
+
+---
+
+## Example: Site Reliability Engineer
+
+A high-altitude golden flow for an SRE might look like:
+
+1. Detect an issue  
+2. Identify the cause  
+3. Remediate  
+4. Confirm stability  
 
 A narrative gives context.  
 A simple diagram lays out the steps.  
-A rough storyboard explores what information is needed at each stage.
-
-In a few iterations, the team learns more about what really matters, long before investing in complex UI work.
-
----
-
-## Why this accelerates discovery
-
-Teams that use Golden Flow Design tend to:
-
-- align faster  
-- test assumptions earlier  
-- reduce redesign and rework  
-- avoid wasted time on premature polish  
-- stay focused on the outcome, not the ornament  
-- build confidence through repeated learning  
-
-The process values **progress over perfection**. When information is incomplete (which is most early-stage projects), progress comes from rapid exploration—not from trying to perfect something that isn’t understood yet.
+A rough storyboard visualizes what information is needed and when.  
+Iterating through these layers builds understanding long before any UI is polished.
 
 ---
 
-## Making it a habit
+## Why This Accelerates Discovery
 
-Golden Flow Design isn’t a deliverable—it’s a mindset. It teaches teams to think in terms of the user’s core journey, use design as a learning tool, and move forward with intention instead of guesswork.
+Teams using Golden Flow Design tend to:
 
-At the beginning of any new project, ask one simple question:
+- Align faster  
+- Test assumptions earlier  
+- Reduce redesign and rework  
+- Avoid wasted time on premature detail  
+- Stay focused on outcomes  
+- Produce clearer user journeys  
+- Build confidence through repeated learning  
+
+This method treats design as **iterative knowledge-building**: start with the bones, test assumptions, and strengthen the solution through rapid feedback loops.
+
+It values **progress over perfection**—especially in early ambiguity.
+
+---
+
+## Making It a Habit
+
+Golden Flow Design isn’t a deliverable—it’s a mindset.
+
+At the beginning of every new project, ask:
 
 **What is the golden flow?**
 
