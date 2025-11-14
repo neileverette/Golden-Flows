@@ -95,31 +95,31 @@ It gives everyone a clear picture of the **destination** before exploring the **
 
 ### 1. Start with a Short Narrative
 
-Describe the user, their situation, their goal, and the outcome they’re trying to achieve.  
-This replaces missing requirements and forces early clarity.
+- Describe the user, their situation, their goal, and the outcome they’re trying to achieve.  
+- This replaces missing requirements and forces early clarity.
 
 ### 2. Map the Core Steps
 
-Lay out the essential sequence from start to completion.  
-Keep it broad—this is shaping logic, not UI.
+- Lay out the essential sequence from start to completion. Just the blocked steps.  
+- Keep it broad and intentionally generic—this is shaping UX logic, not UI.
 
 ### 3. Create Minimal Frames
 
-Turn the steps into rough wireframes.  
-Highlight only what matters; Greek or block everything else.  
-Use implied elements to avoid unnecessary detail that could distract stakeholders.
+- Turn the steps into rough wireframes.  
+- Highlight only what matters; Greek or block everything else.  
+- Use implied elements to avoid unnecessary detail that could distract stakeholders.
 
 ### 4. Run Micro-Iterations
 
-Share early and often with PMs, SMEs, engineers, and users.  
-Each loop reveals gaps and misunderstandings.  
-Low-fidelity makes changes cheap, which makes learning fast.
+- Share early and often with PMs, SMEs, engineers, and users.  
+- Each loop reveals gaps and misunderstandings.  
+- Low-fidelity makes changes cheap, which makes learning fast.
 
 ### 5. Increase Fidelity Gradually
 
-Move to mid-fidelity only when the flow works.  
-Move to high fidelity only after the concept is validated.  
-Fidelity follows understanding—not the other way around.
+- Move to mid-fidelity only when the flow works.  
+- Move to high fidelity only after the concept is validated.  
+- Fidelity follows understanding—not the other way around.
 
 ---
 
@@ -142,10 +142,10 @@ A high-altitude golden flow for an SRE might look like:
 3. Remediate  
 4. Confirm stability  
 
-A narrative gives context.  
-A simple diagram lays out the steps.  
-A rough storyboard visualizes what information is needed and when.  
-Iterating through these layers builds understanding long before any UI is polished.
+- A narrative gives context.  
+- A simple diagram lays out the steps.  
+- A rough storyboard visualizes what information is needed and when.  
+- Iterating through these layers builds understanding long before any UI is polished.
 
 ---
 
