@@ -125,13 +125,11 @@ It gives everyone a clear picture of the **destination** before exploring the **
 ---
 
 ## Fidelity Progression
-
-| Fidelity | Purpose            | Output                        | When to Use        |
-|-----------|--------------------|--------------------------------|--------------------|
-| Low       | Explore & align    | Sketches, simple wires         | Early discovery    |
-| Mid       | Structure & validate | Structured wires, clickable flows | After alignment    |
-| High      | Finalize & deliver | Polished UI, prototypes        | After validation   |
-
+| Fidelity | Purpose | Output | When to Use |
+|-----------|----------|---------|-------------|
+| Low | Explore & align | Sketches, simple wires | Early discovery |
+| Mid | Structure & validate | Structured wires, clickable flows | After alignment |
+| High | Finalize & deliver | Polished UI, prototypes | After validation |
 
 
 ---
