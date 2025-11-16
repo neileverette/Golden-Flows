@@ -156,12 +156,17 @@ It gives everyone a clear picture of the **destination** before exploring the **
 - This replaces missing requirements and forces early clarity.
 - Block out the steps in simple boxes–like a flow
 - Add minimal detail where needed. Imply what might be there.
-![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/rca-story.png)
+- 
+![RCA Story](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/rca-story.png)
+
+
 
 ### Map the story – Illustrate the core steps in the journey
 - Lay out the essential sequence from start to completion.
 - Keep it broad—this is shaping logic, not UI.
-- ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/flow.png)
+ 
+ ![Flow](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/flow.png)
+
 
 ### Create minimal key frames
 - Just the critical ones on the primary journey
@@ -172,20 +177,21 @@ It gives everyone a clear picture of the **destination** before exploring the **
 - If its not crucial, leverage skeletons
 - Black and white. Use color to direct user attention. Otherwise color becomes additional noise.
 - Use implied content to avoid unnecessary detail that could distract stakeholders.
+
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/golden-flow.png)
 
-### Run Multiple Iterations. Refine. Repeat
+### Run multiple iterations. Refine. Repeat
 - Share early and often with PMs, SMEs, engineers, and users.
 - Each loop reveals gaps and misunderstandings.
 - Low-fidelity makes changes cheap, which makes learning fast. 
 - The more turns on the crank, the better the opportunity to learn and improve
 
-### Increase Fidelity, Content and Resolution Over Time
+### Increase fidelity, content and resolution over time
 - Move to mid-fidelity only when the flow works.
 - Add in the details. Gain in resolution
 - Move to high fidelity only after the concept is validated.
 
-## Fidelity Progression
+## Fidelity progression
 
 ### Stages of fidelity ( and understanding )
 
@@ -196,11 +202,11 @@ It gives everyone a clear picture of the **destination** before exploring the **
 | High    | Finalize & deliver    | Polished UI, prototypes          | After validation    |
 
 
-## Example: Site Reliability Engineer
+## Example: Resolving a critical IT outage
 
 A high-altitude golden flow for an SRE might look like:
 
-A Site Reliability Engineer’s golden flow starts when monitoring tools surface an incident. They quickly diagnose the root cause, apply a fix, and verify that systems are stable before closing the loop.
+**A Site Reliability Engineer’s golden flow** starts when monitoring tools surface an incident. They quickly diagnose the root cause, apply a fix, and verify that systems are stable before closing the loop.
 
 **Reactive incident detection and resolution**
 1. Detect an issue
@@ -215,7 +221,7 @@ That's much easier to parse and understand vs getting in the atomic level.
 - A rough storyboard visualizes what information is needed and when.
 - Iterating through these layers builds understanding long before any UI is polished.
 
-## Accelerated Learning And Alignment
+## Accelerated learning, alignment, and risk reduction
 
 Teams using Golden Flow Design tend to:
 
@@ -231,7 +237,7 @@ This method treats design as **iterative knowledge-building**: start with the bo
 
 It values **progress over perfection**—especially in early ambiguity.
 
-## Make it Habitual
+## Make it habitual
 
 Golden Flow Design isn’t a deliverable—it’s process and approach to learning
 At the beginning of every new project, ask:
