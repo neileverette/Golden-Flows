@@ -38,18 +38,19 @@ It means **don’t start in high fidelity**. That's solutioning. Don’t jump st
 *Low fidelity signals:* 
 **“We’re exploring. It’s open to interpretation. This can change. We encourage you to participate”**
 
+  ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/workshop.png)
+
 As you learn more and the solution becomes clearer, _then_ you start increasing fidelity. You raise the resolution of the design when you have a higher-resolution understanding of the problem and the solution.
 
 Fidelity should rise with your confidence. If you show a high-fidelity mockup, it should mean you have a high-fidelity understanding. In other words:
 
 **The resolution of the design should match the resolution of your clarity.**
-  
 
 ## Introduction of Golden Flows
 
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
   
-Sometime referenced as a *Critical User Journey*, or *CJU*, **a golden flow is the primary journey** a user takes to accomplish their core goal—the 80% path your product must get right before anything else matters. It’s the backbone of the experience. Everything else is secondary until this is understood and validated.
+Sometime referenced as a *Critical User Journey*, **a golden flow is the primary journey** a user takes to accomplish their core goal—**the 80% path your product must get right** before anything else matters. It’s the backbone of the experience. Everything else is secondary until this is understood and validated.
 
 Golden flows ignore edge cases, surface detail, and optional paths. They deliberately strip the experience down to the sequence that delivers value. As understanding increases, the flow can be explored at lower “altitudes” of detail.
 
@@ -185,6 +186,8 @@ It gives everyone a clear picture of the **destination** before exploring the **
 - Each loop reveals gaps and misunderstandings.
 - Low-fidelity makes changes cheap, which makes learning fast. 
 - The more turns on the crank, the better the opportunity to learn and improve
+
+![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/testing.png)
 
 ### Increase fidelity, content and resolution over time
 - Move to mid-fidelity only when the flow works.
