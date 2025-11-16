@@ -1,7 +1,7 @@
 
   
 
-# Golden Flow Design: A Faster Way to Find Clarity in Early Product Work
+# Golden flow design: A faster way to find clarity in early product work
 
 
 ### We’ve all been there...
@@ -69,21 +69,34 @@ Consider the last time you traveled. I bet your journey was similar to this:
 
 Look familar? Yep, we can map that story. Each step later can have its own deep-dive into its own Golden Flow.
 
-## Why Focusing on the Golden Flow Works
+## Why focusing on the Golden Flow works
 
 Golden flows shift attention from **features** to **purpose**. By anchoring the team on the core journey, they:
-- Reduce ambiguity early in the process
-- Exposes incorrect assumptions quickly
-- Prevents distraction from secondary details and side-quests
-- Gives cross-functional groups a visual shared reference
-- Ensures micro-details don’t get cloud progress
-- Support rapid iteration and early conceptual testing
+- **Reduces ambiguity** early in the process
+- **Exposes incorrect assumptions** quickly
+- **Prevents distraction** from secondary details and side-quests
+- Gives cross-functional groups a **shared view** for reference & alignment
+- Ensures **micro-details** don’t get cloud progress
+- **Supports rapid iteration** and early conceptual testing
+- It demonstrates **progress over perfection**
 
 Most importantly, they help teams avoid jumping into details of UI too early—a common trap where fidelity misrepresents how much is actually understood.
 
-## The Issues With Fidelity
+## Why does any of this matter?
 
-Designers will often start with high-fidelity, component screens because modern design systems make it a little too easy. But this can create issues in early stage work:
+### Only 31% of software projects are fully successful
+
+**Common reasons software projects fail:**
+- Poor requirements definition
+- Insufficient user involvement
+- Communication breakdowns
+
+<small>Based on Standish Group CHAOS findings, where “success” means delivered on time, on budget, and meeting expected value.Sources: Standish Group CHAOS Report (2020/2021); Zipdo “Essential Software Project Failure Statistics in 2023,” summarized by Beta Breakers (2024).</small>
+
+
+## The issues with early stage fidelity & resolution
+
+Designers will often start with high-fidelity, component screens because **modern design systems make it a little too easy**. But this can create issues in early stage work:
 
 - Stakeholders can get distracted on detail, or "side quests"
 - Early assumptions can become locked in - difficult to back out of
@@ -96,10 +109,11 @@ Golden Flow Design replaces this with work that looks intentionally rough—like
 
   
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/fidelty.png)
-  
-### Consider Two Toolkits
 
-**Low-Fidelity Toolkit - early stage thinking and rationalizing**
+---  
+### Consider two toolkits
+
+**Low-fidelity toolkit - early stage thinking and learning**
 - Rough frames
 - Implied structure
 - Minimal text
@@ -107,22 +121,22 @@ Golden Flow Design replaces this with work that looks intentionally rough—like
 - Ideal for early discovery
 - Mural is great at this, as it forces a crude level of detail.
 
-**UI Component Toolkit - later stage delivery**
+**UI component toolkit - later stage delivery**
 - Used only after the flow is validated
 - Appropriate for refinement and delivery
 - Figma is the tool of choice
  
-## The Method in Practice
+## The method in practice
 
-Golden Flow Design is built on **fast, small learning loops**, each increasing resolution only when understanding matures.
+Golden Flow Design is built on **fast, small learning loops**, each increasing resolution only when understanding matures. Many loops, iterations, improvement.
 
-Below are steps I do on almost any project:
+Below are steps and method on any project:
 
-### Rewrite the Requirements in Your Own Words
+### 1. Rewrite the requirements in your own words
 
 Before designing anything, restate the requirements in a way that makes sense to you. Writing, if if prompting an assistant to turn thoughts into narrative is a powerful tool. Writing forces clarity, exposes missing pieces, and ensures you aren’t inheriting assumptions blindly.
 
-### Envision the Future State with a PRFAQ
+### Envision the future state with a PRFAQ
 
 Write a short “press release” and FAQ describing the ideal outcome at launch.
 
@@ -136,7 +150,7 @@ It gives everyone a clear picture of the **destination** before exploring the **
 
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/pr-faq.png)
 
-### Start With That Short Narrative
+### Then, start building a short narrative - the situation, context, user and goal being accomplished
 
 - Describe the user, their situation, their goal, and the outcome they’re trying to achieve.
 - This replaces missing requirements and forces early clarity.
@@ -144,15 +158,20 @@ It gives everyone a clear picture of the **destination** before exploring the **
 - Add minimal detail where needed. Imply what might be there.
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/rca-story.png)
 
-### Map The Story – The Core Steps In The Journey
+### Map the story – Illustrate the core steps in the journey
 - Lay out the essential sequence from start to completion.
 - Keep it broad—this is shaping logic, not UI.
 - ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/flow.png)
 
-### Create Minimal Key Frames
+### Create minimal key frames
+- Just the critical ones on the primary journey
+- More at this point does not equate to better
 - Turn the steps into rough wireframes.
 - Highlight only what matters; Greek or block everything else.
-- Use implied elements to avoid unnecessary detail that could distract stakeholders.
+- Use content, color and boldness ( font, line weight and color ) to direct user attention
+- If its not crucial, leverage skeletons
+- Black and white. Use color to direct user attention. Otherwise color becomes additional noise.
+- Use implied content to avoid unnecessary detail that could distract stakeholders.
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/golden-flow.png)
 
 ### Run Multiple Iterations. Refine. Repeat
