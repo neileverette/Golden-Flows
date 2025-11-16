@@ -45,7 +45,7 @@ Fidelity should rise with your confidence. If you show a high-fidelity mockup, i
 **The resolution of the design should match the resolution of your clarity.**
   
 
-## What is a Golden Flow?
+## Introduction of Golden Flows?
 
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
   
