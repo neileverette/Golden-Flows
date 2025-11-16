@@ -98,7 +98,6 @@ Golden Flow Design replaces this with work that looks intentionally rough—like
 
   
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/fidelty.png)
-
   
 ### Consider Two Toolkits
 
@@ -115,8 +114,6 @@ Golden Flow Design replaces this with work that looks intentionally rough—like
 - Appropriate for refinement and delivery
 - Figma is the tool of choice
  
----
-
 ## The Method in Practice
 
 Golden Flow Design is built on **fast, small learning loops**, each increasing resolution only when understanding matures.
@@ -139,34 +136,31 @@ This helps the team align on:
 
 It gives everyone a clear picture of the **destination** before exploring the **path**.
 
-### 1. Start with a Short Narrative
+![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/pr-faq.png)
+
+### Start with a Short Narrative
 
 - Describe the user, their situation, their goal, and the outcome they’re trying to achieve.
 - This replaces missing requirements and forces early clarity.
 - Block out the steps in simple boxes–like a flow
 - Add minimal detail where needed. Imply what might be there.
 
-  
-
-### 2. Map the Core Steps
+### Map the Story – The Core Steps In The Journey
 - Lay out the essential sequence from start to completion.
 - Keep it broad—this is shaping logic, not UI.
 
-  
-
-### 3. Create Minimal Frames
+### Create Minimal Frames
 - Turn the steps into rough wireframes.
 - Highlight only what matters; Greek or block everything else.
 - Use implied elements to avoid unnecessary detail that could distract stakeholders.
 
-### 4. Run Multiple Iterations. Refine. Repeat
+### Run Multiple Iterations. Refine. Repeat
 - Share early and often with PMs, SMEs, engineers, and users.
 - Each loop reveals gaps and misunderstandings.
-- Low-fidelity makes changes cheap, which makes learning fast.
+- Low-fidelity makes changes cheap, which makes learning fast. 
+- The more turns on the crank, the better the opportunity to learn and improve
 
- 
-
-### 5. Increase Fidelity Gradually
+### Increase Fidelity Gradually
 - Move to mid-fidelity only when the flow works.
 - Add in the details. Gain in resolution
 - Move to high fidelity only after the concept is validated.
@@ -181,7 +175,6 @@ It gives everyone a clear picture of the **destination** before exploring the **
 | Mid     | Structure & validate  | Structured wires, clickable flows| After alignment     |
 | High    | Finalize & deliver    | Polished UI, prototypes          | After validation    |
 
----
 
 ## Example: Site Reliability Engineer
 
@@ -216,7 +209,6 @@ This method treats design as **iterative knowledge-building**: start with the bo
 
 It values **progress over perfection**—especially in early ambiguity.
 
----
 ## Make it Habitual
 
 Golden Flow Design isn’t a deliverable—it’s process and approach to learning
