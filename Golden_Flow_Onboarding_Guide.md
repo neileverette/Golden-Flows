@@ -1,16 +1,16 @@
 
   
 
-# Golden flow design: A faster way to find clarity in early product work
+# Golden flow design: A faster way to gain clarity, drive alignment, and accelerate outcomes
 
 
 ### We’ve all been there...
 
-A new project lands in your lap—big, ambitious, and fuzzy around the edges. It’s early, Day 0. Maybe there are “requirements,” maybe just a rough idea, or maybe it’s literally a pile of notes someone typed during a meeting.
+A new project lands in your lap—big, ambitious, and fuzzy around the edges. It’s early, Day 1. Maybe there are “requirements,” maybe just a rough idea, or maybe it’s literally a pile of notes someone typed during a meeting.
 
 The technical space feels dense, maybe even cryptic. Nothing quite clicks yet, and you’re trying to piece together enough understanding to form a mental model. On top of that, the team may not see the same picture, or it’s difficult for you to even see the picture. Or worse yet, team members disagree and have competing objectives. And you’re the one in the middle—expected to move things forward while everyone looks to you for clarity.
 
-**Sounds familiar, right? Yeah… same here.**
+**Sounds familiar, right? Yeah… I've been there, alot.**
 
 The natural instinct is to open Figma and start mocking things up. Or open Aha and start writing functional requirements. If you’re a designer, maybe you hunt down old mockups or jump straight into the Carbon library to assemble new screens. It feels productive—almost obligatory.
 
@@ -30,7 +30,7 @@ Your job here is to sketch the high-level shape of the experience—not the UI, 
 
 Ok Neil… what does that even mean?  
 
-It means **don’t start in high fidelity**. That's solutioning. Don’t jump straight into polished screens or detailed UI work, because that level of polish communicates confidence you simply _don’t_ have yet. And honestly, most of those details aren’t even needed this early.
+It means **don’t start in high fidelity with screens**. That's solutioning. Don’t jump straight into polished mockups or detailed UI work, because that level of polish communicates confidence you simply _don’t_ have yet. And honestly, most of those details aren’t even needed this early.
 
 *High fidelity signals:*  
 **“I know what this is. I’m confident. This is close to final.”**
@@ -42,7 +42,7 @@ It means **don’t start in high fidelity**. That's solutioning. Don’t jump st
 
 As you learn more and the solution becomes clearer, _then_ you start increasing fidelity. You raise the resolution of the design when you have a higher-resolution understanding of the problem and the solution.
 
-Fidelity should rise with your confidence. If you show a high-fidelity mockup, it should mean you have a high-fidelity understanding. In other words:
+**Fidelity should rise with your confidence.** If you show a high-fidelity mockup, it should mean you have a high-fidelity understanding. In other words:
 
 **The resolution of the design should match the resolution of your clarity.**
 
@@ -54,7 +54,7 @@ Sometime referenced as a *Critical User Journey*, **a golden flow is the primary
 
 Golden flows ignore edge cases, surface detail, and optional paths. They deliberately strip the experience down to the sequence that delivers value. As understanding increases, the flow can be explored at lower “altitudes” of detail.
 
-### An example we can all understand (travel site)
+### An example we can all understand (travelers' journey)
 
 Consider the last time you traveled. I bet your journey was similar to this:
 1. Search for flights - enter your criteria
@@ -68,7 +68,8 @@ Consider the last time you traveled. I bet your journey was similar to this:
 
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/flight-flow.png)
 
-Look familar? Yep, we can map that story. Each step later can have its own deep-dive into its own Golden Flow.
+Look familiar? 
+Yep, we can map that story in stages. Each step later can have its own deep-dive into its own Golden Flow.
 
 ## Why focusing on the Golden Flow works
 
@@ -139,7 +140,7 @@ Before designing anything, restate the requirements in a way that makes sense to
 
 ![RCA Story](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/reqs.png)
 
-### Envision the future state with a PRFAQ
+### 2. Envision the future state with a PRFAQ
 
 Write a short “press release” and FAQ describing the ideal outcome at launch.
 
@@ -153,7 +154,7 @@ It gives everyone a clear picture of the **destination** before exploring the **
 
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/pr-faq.png)
 
-### Then, start building a short narrative - the situation, context, user and goal being accomplished
+### 3. Then, start building a short narrative - the situation, context, user and goal being accomplished
 
 - Describe the user, their situation, their goal, and the outcome they’re trying to achieve.
 - This replaces missing requirements and forces early clarity.
@@ -164,7 +165,7 @@ It gives everyone a clear picture of the **destination** before exploring the **
 
 
 
-### Map the story – Illustrate the core steps in the journey
+### 4. Map the story – Visualize the core steps in the journey
 - Lay out the essential sequence from start to completion.
 - Keep it broad—this is shaping logic, not UI.
  
@@ -230,17 +231,18 @@ That's much easier to parse and understand vs getting in the atomic level.
 
 Teams using Golden Flow Design tend to:
 
-- Align faster - everyone sees the full picture
-- Test assumptions earlier - and through visual, you can validate with users
-- Reduce redesign and rework - this eliminate costly work in high fidelity, or worse, code later
-- Avoid wasted time on premature detail - these are most likely to change 
-- Stay focused on outcomes - with less detail, you control the flow of focus
-- Produce clearer user journeys - everyone sees the larger journey and can connect it to the North Star metric
-- Build confidence through repeated learning - as you learn more, the confidence goes up
+- **Align faster** - everyone sees the full picture
+- **Test assumptions earlier** - and through visual, you can validate with users
+- **Reduce costly rework** - high fidelity is expensive to change, code – even more
+- **Avoid wasted time** on premature detail - these are most likely to change 
+- **Stay focused on outcomes** - with less detail, you control the flow of focus
+- **Common view of the end state** - everyone sees the larger journey and can connect it to the North Star metric
+- **Build confidence** through repeated learning - as you learn more, the confidence goes up
 
 This method treats design as **iterative knowledge-building**: start with the bones, test assumptions, and strengthen the solution through rapid feedback loops.
 
 It values **progress over perfection**—especially in early ambiguity.
+
 
 ## Make it habitual
 
