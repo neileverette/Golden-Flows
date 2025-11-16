@@ -2,17 +2,11 @@
   
 
 # Golden Flow Design: A Faster Way to Find Clarity in Early Product Work
-
-  
 **We’ve all been there.** A new project lands in your lap—big, ambitious, and lacking clarity. It's early stage, Day 0 so maybe the requirements are there, or the idea vague. Many times, they aren't documented, or maybe not written in a clear way - maybe more like a list of notes. 
-
 The technical domain feels dense, maybe even cryptic, and nothing seems to quite clicks, and you're struggling to put the pieces together, to get a mental model. And to add to that, 
 maybe the stakeholders don’t share the same picture—or worse, they disagree and have competing objectives. Yet you’re the one in the middle, expected to move things forward, and everyone is looking at you.
-
 **Sounds familiar right? Yeah, I've been there.. a lot.**
-
 The natural instinct is to open Figma and start mocking things up. Maybe pull a few older mockups, or just go directly into the Carbon toolkit and start creating pages. It feels productive, almost like an obligation. But at this stage, it’s the wrong tool. That's likely to add fuel to the confusion fire, or worse, lock you in a direction too early in the process.
-
 This is the moment you shift the thinking from UI designer to product designer. What's the difference you might ask? Its huge - product design skills, the tools we use to model behavior include a broader set of tools and methods. Its that set of tools that include skills from content strategy, product management, business, technical, and user interface design. It looks at product in his holistic view, end-to-end solutioning with the understanding of the user, their task and the goal along a narraitve journey
 
 At this stage of the process your task is understanding and team alignment on the clarity of idea, That shift seems small, but it’s crucial. It means focusing less on concrete screens and more on how things work, how users achieve their goals, and what the system really needs to be. You slow things down, dig into the details, explore the technology, learn the domain, and wade through the ambiguity. Your job is to bring shape to the chaos.
@@ -355,6 +349,7 @@ Teams using Golden Flow Design tend to:
 
 This method treats design as **iterative knowledge-building**: start with the bones, test assumptions, and strengthen the solution through rapid feedback loops.
 
+  
 
 It values **progress over perfection**—especially in early ambiguity.
 
