@@ -45,7 +45,7 @@ Fidelity should rise with your confidence. If you show a high-fidelity mockup, i
 **The resolution of the design should match the resolution of your clarity.**
   
 
-## Introduction of Golden Flows?
+## Introduction of Golden Flows
 
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
   
@@ -81,8 +81,6 @@ Golden flows shift attention from **features** to **purpose**. By anchoring the 
 
 Most importantly, they help teams avoid jumping into details of UI too early—a common trap where fidelity misrepresents how much is actually understood.
 
----
-
 ## The Issues With Fidelity
 
 Designers will often start with high-fidelity, component screens because modern design systems make it a little too easy. But this can create issues in early stage work:
@@ -101,7 +99,7 @@ Golden Flow Design replaces this with work that looks intentionally rough—like
   
 ### Consider Two Toolkits
 
-**Low-Fidelity Toolkit - early stage**
+**Low-Fidelity Toolkit - early stage thinking and rationalizing**
 - Rough frames
 - Implied structure
 - Minimal text
@@ -109,7 +107,7 @@ Golden Flow Design replaces this with work that looks intentionally rough—like
 - Ideal for early discovery
 - Mural is great at this, as it forces a crude level of detail.
 
-**UI Component Toolkit**
+**UI Component Toolkit - later stage delivery**
 - Used only after the flow is validated
 - Appropriate for refinement and delivery
 - Figma is the tool of choice
@@ -138,21 +136,24 @@ It gives everyone a clear picture of the **destination** before exploring the **
 
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/pr-faq.png)
 
-### Start with a Short Narrative
+### Start With That Short Narrative
 
 - Describe the user, their situation, their goal, and the outcome they’re trying to achieve.
 - This replaces missing requirements and forces early clarity.
 - Block out the steps in simple boxes–like a flow
 - Add minimal detail where needed. Imply what might be there.
+![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/rca-story.png)
 
-### Map the Story – The Core Steps In The Journey
+### Map The Story – The Core Steps In The Journey
 - Lay out the essential sequence from start to completion.
 - Keep it broad—this is shaping logic, not UI.
+- ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/flow.png)
 
-### Create Minimal Frames
+### Create Minimal Key Frames
 - Turn the steps into rough wireframes.
 - Highlight only what matters; Greek or block everything else.
 - Use implied elements to avoid unnecessary detail that could distract stakeholders.
+![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/golden-flow.png)
 
 ### Run Multiple Iterations. Refine. Repeat
 - Share early and often with PMs, SMEs, engineers, and users.
@@ -160,7 +161,7 @@ It gives everyone a clear picture of the **destination** before exploring the **
 - Low-fidelity makes changes cheap, which makes learning fast. 
 - The more turns on the crank, the better the opportunity to learn and improve
 
-### Increase Fidelity Gradually
+### Increase Fidelity, Content and Resolution Over Time
 - Move to mid-fidelity only when the flow works.
 - Add in the details. Gain in resolution
 - Move to high fidelity only after the concept is validated.
@@ -182,28 +183,30 @@ A high-altitude golden flow for an SRE might look like:
 
 A Site Reliability Engineer’s golden flow starts when monitoring tools surface an incident. They quickly diagnose the root cause, apply a fix, and verify that systems are stable before closing the loop.
 
+**Reactive incident detection and resolution**
 1. Detect an issue
 2. Identify the cause
 3. Find the fix
 4. Remediate
 5. Confirm stability
 
+That's much easier to parse and understand vs getting in the atomic level.
 - A narrative gives context.
 - A simple diagram lays out the steps.
 - A rough storyboard visualizes what information is needed and when.
 - Iterating through these layers builds understanding long before any UI is polished.
 
-## Why This Accelerates Discovery
+## Accelerated Learning And Alignment
 
 Teams using Golden Flow Design tend to:
 
-- Align faster
-- Test assumptions earlier
-- Reduce redesign and rework
-- Avoid wasted time on premature detail
-- Stay focused on outcomes
-- Produce clearer user journeys
-- Build confidence through repeated learning
+- Align faster - everyone sees the full picture
+- Test assumptions earlier - and through visual, you can validate with users
+- Reduce redesign and rework - this eliminate costly work in high fidelity, or worse, code later
+- Avoid wasted time on premature detail - these are most likely to change 
+- Stay focused on outcomes - with less detail, you control the flow of focus
+- Produce clearer user journeys - everyone sees the larger journey and can connect it to the North Star metric
+- Build confidence through repeated learning - as you learn more, the confidence goes up
 
 This method treats design as **iterative knowledge-building**: start with the bones, test assumptions, and strengthen the solution through rapid feedback loops.
 
