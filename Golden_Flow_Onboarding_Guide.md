@@ -137,6 +137,8 @@ Below are steps and method on any project:
 
 Before designing anything, restate the requirements in a way that makes sense to you. Writing, if if prompting an assistant to turn thoughts into narrative is a powerful tool. Writing forces clarity, exposes missing pieces, and ensures you aren’t inheriting assumptions blindly.
 
+![RCA Story](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/reqs.png)
+
 ### Envision the future state with a PRFAQ
 
 Write a short “press release” and FAQ describing the ideal outcome at launch.
