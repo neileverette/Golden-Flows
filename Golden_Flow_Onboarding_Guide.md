@@ -18,7 +18,7 @@ But at this stage, it’s the wrong move. Those tools can actually increase conf
 
 ----------
 
-**This is the moment where your role shifts.**  
+**This is the moment where your role shifts. Think Product Design, not UI Design.**  
 
 You stop thinking like a _UI_ designer and step into the mindset of a _product_ designer. And yeah—the difference is huge. UI design is about the screen. Product design is about the **story**: the user, the goal, the task, the business need, the technical constraints, and how it all pieces together into one coherent narrative.
 
