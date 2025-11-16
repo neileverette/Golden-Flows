@@ -2,43 +2,47 @@
   
 
 # Golden Flow Design: A Faster Way to Find Clarity in Early Product Work
-**We’ve all been there.** A new project lands in your lap—big, ambitious, and lacking clarity. It's early stage, Day 0 so maybe the requirements are there, or the idea vague. Many times, they aren't documented, or maybe not written in a clear way - maybe more like a list of notes. 
-The technical domain feels dense, maybe even cryptic, and nothing seems to quite clicks, and you're struggling to put the pieces together, to get a mental model. And to add to that, 
-maybe the stakeholders don’t share the same picture—or worse, they disagree and have competing objectives. Yet you’re the one in the middle, expected to move things forward, and everyone is looking at you.
-**Sounds familiar right? Yeah, I've been there.. a lot.**
-The natural instinct is to open Figma and start mocking things up. Maybe pull a few older mockups, or just go directly into the Carbon toolkit and start creating pages. It feels productive, almost like an obligation. But at this stage, it’s the wrong tool. That's likely to add fuel to the confusion fire, or worse, lock you in a direction too early in the process.
-This is the moment you shift the thinking from UI designer to product designer. What's the difference you might ask? Its huge - product design skills, the tools we use to model behavior include a broader set of tools and methods. Its that set of tools that include skills from content strategy, product management, business, technical, and user interface design. It looks at product in his holistic view, end-to-end solutioning with the understanding of the user, their task and the goal along a narraitve journey
 
-At this stage of the process your task is understanding and team alignment on the clarity of idea, That shift seems small, but it’s crucial. It means focusing less on concrete screens and more on how things work, how users achieve their goals, and what the system really needs to be. You slow things down, dig into the details, explore the technology, learn the domain, and wade through the ambiguity. Your job is to bring shape to the chaos.
 
-Why this article exists - what's its "job to be done"?
+### We’ve all been there...
 
-This article is about that early-stage approach—how to use your product design skills to clarify the problem space, align stakeholders, and guide everyone toward a shared understanding. You’re not just designing a solution; you’re helping the team see the problem clearly enough to build the right thing together.
+A new project lands in your lap—big, ambitious, and fuzzy around the edges. It’s early, Day 0. Maybe there are “requirements,” maybe just a rough idea, or maybe it’s literally a pile of notes someone typed during a meeting.
 
-  
+The technical space feels dense, maybe even cryptic. Nothing quite clicks yet, and you’re trying to piece together enough understanding to form a mental model. On top of that, the team may not see the same picture, or it’s difficult for you to even see the picture. Or worse yet, team members disagree and have competing objectives. And you’re the one in the middle—expected to move things forward while everyone looks to you for clarity.
 
-**Golden Flow Design offers an alternative path.**
+**Sounds familiar, right? Yeah… same here.**
 
-  
+The natural instinct is to open Figma and start mocking things up. Or open Aha and start writing functional requirements. If you’re a designer, maybe you hunt down old mockups or jump straight into the Carbon library to assemble new screens. It feels productive—almost obligatory.
 
-Golden Flow Design is a simple, low-fidelity, customer-journey method that helps teams see the problem clearly, test assumptions, and align early—long before committing to detailed UI work. Instead of jumping into interface design, you focus on the experience: the steps a user takes, the intent behind each moment, and how the system supports that flow.
+But at this stage, it’s the wrong move. Those tools can actually increase confusion or lock you into a direction before anyone even agrees on what problem you’re solving.
 
-  
+----------
 
-It’s both a learning process and an alignment process. You use your design skills to visualize the journey, not to polish mockups. By making to learn—not making to ship—you build understanding, uncover gaps, and guide the team toward clarity.
+**This is the moment where your role shifts.**  
 
-  
+You stop thinking like a _UI_ designer and step into the mindset of a _product_ designer. And yeah—the difference is huge. UI design is about the screen. Product design is about the **story**: the user, the goal, the task, the business need, the technical constraints, and how it all pieces together into one coherent narrative.
 
-This process is intentionally rough early on because the goal isn’t finalization—it’s ***a learning and alignment process***.
+In these early moments, your work becomes broader and more strategic. It’s less about components and more about **visual thinking**, **sense-making**, and **mapping the problem space**. You’re working with your triad—design, product, and engineering—to align on the user, the job they’re trying to get done, and the major building blocks required to support that journey.
 
-  
+Your job here is to sketch the high-level shape of the experience—not the UI, but the _structure_ of the solution. You’re creating just enough clarity so everyone can point to the same thing and say, “Yeah—that’s what we’re building.” Once that alignment exists, then the detailed requirements and screens actually have something solid underneath them.
 
-**Fidelity should follow the understanding, not the other way around.**
+### Fidelity should match the understanding.
 
-  
+Ok Neil… what does that even mean?  
 
----
+It means **don’t start in high fidelity**. That's solutioning. Don’t jump straight into polished screens or detailed UI work, because that level of polish communicates confidence you simply _don’t_ have yet. And honestly, most of those details aren’t even needed this early.
 
+*High fidelity signals:*  
+**“I know what this is. I’m confident. This is close to final.”**
+
+*Low fidelity signals:* 
+**“We’re exploring. It’s open to interpretation. This can change. We encourage you to participate”**
+
+As you learn more and the solution becomes clearer, _then_ you start increasing fidelity. You raise the resolution of the design when you have a higher-resolution understanding of the problem and the solution.
+
+Fidelity should rise with your confidence. If you show a high-fidelity mockup, it should mean you have a high-fidelity understanding. In other words:
+
+**The resolution of the design should match the resolution of your clarity.**
   
 
 ## What is a Golden Flow?
@@ -46,15 +50,10 @@ This process is intentionally rough early on because the goal isn’t finalizati
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
 
   
-
 Sometime referenced as a *Critical User Journey*, or *CJU*, **a golden flow is the primary journey** a user takes to accomplish their core goal—the 80% path your product must get right before anything else matters. It’s the backbone of the experience. Everything else is secondary until this is understood and validated.
-
-  
 
 Golden flows ignore edge cases, surface detail, and optional paths. They deliberately strip the experience down to the sequence that delivers value. As understanding increases, the flow can be explored at lower “altitudes” of detail.
 
-  
-  
 
 ### An example we can all understand (travel site)
 
