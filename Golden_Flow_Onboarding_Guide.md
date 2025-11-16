@@ -16,16 +16,18 @@ The natural instinct is to open Figma and start mocking things up. Or open Aha a
 
 But at this stage, it’s the wrong move. Those tools can actually increase confusion or lock you into a direction before anyone even agrees on what problem you’re solving.
 
-----------
+---
 
 **This is the moment where your role shifts. Think Product Design, not UI Design.**  
 
+---
 You stop thinking like a _UI_ designer and step into the mindset of a _product_ designer. And yeah—the difference is huge. UI design is about the screen. Product design is about the **story**: the user, the goal, the task, the business need, the technical constraints, and how it all pieces together into one coherent narrative.
 
 In these early moments, your work becomes broader and more strategic. It’s less about components and more about **visual thinking**, **sense-making**, and **mapping the problem space**. You’re working with your triad—design, product, and engineering—to align on the user, the job they’re trying to get done, and the major building blocks required to support that journey.
 
 Your job here is to sketch the high-level shape of the experience—not the UI, but the _structure_ of the solution. You’re creating just enough clarity so everyone can point to the same thing and say, “Yeah—that’s what we’re building.” Once that alignment exists, then the detailed requirements and screens actually have something solid underneath them.
 
+---
 ### Fidelity should match the understanding.
 
 Ok Neil… what does that even mean?  
@@ -46,6 +48,7 @@ As you learn more and the solution becomes clearer, _then_ you start increasing 
 
 **The resolution of the design should match the resolution of your clarity.**
 
+---
 ## Introduction of Golden Flows
 
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
@@ -71,6 +74,7 @@ Consider the last time you traveled. I bet your journey was similar to this:
 Look familiar? 
 Yep, we can map that story in stages. Each step later can have its own deep-dive into its own Golden Flow.
 
+---
 ## Why focusing on the Golden Flow works
 
 Golden flows shift attention from **features** to **purpose**. By anchoring the team on the core journey, they:
@@ -84,6 +88,8 @@ Golden flows shift attention from **features** to **purpose**. By anchoring the 
 
 Most importantly, they help teams avoid jumping into details of UI too early—a common trap where fidelity misrepresents how much is actually understood.
 
+
+---
 ## Why does any of this matter?
 
 ### Only 31% of software projects are fully successful
@@ -95,7 +101,7 @@ Most importantly, they help teams avoid jumping into details of UI too early—a
 
 <small>Based on Standish Group CHAOS findings, where “success” means delivered on time, on budget, and meeting expected value.Sources: Standish Group CHAOS Report (2020/2021); Zipdo “Essential Software Project Failure Statistics in 2023,” summarized by Beta Breakers (2024).</small>
 
-
+---
 ## The issues with early stage fidelity & resolution
 
 Designers will often start with high-fidelity, component screens because **modern design systems make it a little too easy**. But this can create issues in early stage work:
@@ -127,7 +133,7 @@ Golden Flow Design replaces this with work that looks intentionally rough—like
 - Used only after the flow is validated
 - Appropriate for refinement and delivery
 - Figma is the tool of choice
- 
+--- 
 ## The method in practice
 
 Golden Flow Design is built on **fast, small learning loops**, each increasing resolution only when understanding matures. Many loops, iterations, improvement.
@@ -243,7 +249,7 @@ This method treats design as **iterative knowledge-building**: start with the bo
 
 It values **progress over perfection**—especially in early ambiguity.
 
-
+---
 ## Make it habitual
 
 Golden Flow Design isn’t a deliverable—it’s process and approach to learning
