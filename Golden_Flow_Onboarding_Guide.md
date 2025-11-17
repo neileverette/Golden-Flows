@@ -57,19 +57,19 @@ Golden flows ignore edge cases, surface detail, and optional paths. They deliber
 ### An example we can all understand (travelers' journey)
 
 Consider the last time you traveled. I bet your journey was similar to this:
-1. Search for flights - enter your criteria
-2. Evaluate options - see options, consider price vs convenience
-3. Select flight - pick the perfect fare
-4. Choose options - your add-ons
-5. Review - read it back and double dog check it
-6. Purchase - commitment
-7. Confirmation - validate it went through
+1. **Search for flights** - enter your criteria
+2. **Evaluate options** - see options, consider price vs convenience
+3. **Select flight** - pick the perfect fare
+4. **Choose options** - your add-ons
+5. **Review** - read it back and double dog check it
+6. **Purchase** - commitment
+7. **Confirmation** - validate it went through - "Happy time"
 
 
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/flight-flow.png)
 
 Look familiar? 
-Yep, we can map that story in stages. Each step later can have its own deep-dive into its own Golden Flow.
+Yep. So what smarty-pants. Well we can map that story in stages. Each step later can have its own deep-dive into its own Golden Flow.
 
 
 -----------
@@ -92,6 +92,8 @@ Most importantly, they help teams avoid jumping into details of UI too early—a
 
 ### Only 31% of software projects are fully successful
 
+Yeah, its like that. We can fix that. Here's some contributors according to the experts tracking this.
+
 **Common reasons software projects fail:**
 - Poor requirements definition
 - Insufficient user involvement
@@ -102,16 +104,16 @@ Most importantly, they help teams avoid jumping into details of UI too early—a
 -----------
 ## The issues with early stage fidelity & resolution
 
-Designers will often start with high-fidelity, component screens because **modern design systems make it a little too easy**. But this can create issues in early stage work:
+We ( designers - myself included ) will often want to start with high-fidelity, component screens because **modern design systems make it a little too easy**, and it looks way cool. **But** this can create issues in early stage work:
 
-- Teams can get distracted on detail, or "side quests"
+- Teams can get distracted on insignificant detail, or "side quests"
 - Early assumptions can become locked in - difficult to back out of
-- The design appear more stated intent, than "open-canvas", collaborative work
+- Solutions shown appear to be more stated intent, than "open-canvas", collaborative work
 - Teams spend time perfecting details that aren't core at the moment
 - The fidelity does not accurately match the maturity of thinking
 
 
-Golden Flow Design replaces this with work that looks intentionally rough—like draft models—signaling exploration, not commitment.
+Golden Flow Design replaces this with work that **looks intentionally rough** — like draft models, signaling this is only exploration, not committed decisions. 
 
   
 ![Mapping of fidelity](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/fidelty.png)
