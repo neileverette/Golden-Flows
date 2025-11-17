@@ -16,7 +16,7 @@ The natural instinct is to open Figma and start mocking things up. Or open Aha a
 
 But at this stage, it’s the wrong move. Those tools can actually increase confusion or lock you into a direction before anyone even agrees on what problem you’re solving.
 
------------
+***
 **This is the moment where your role shifts. Think Product Design, not UI Design.**  
 
 You stop thinking like a _UI_ designer and step into the mindset of a _product_ designer. And yeah—the difference is huge. UI design is about the screen. Product design is about the **story**: the user, the goal, the task, the business need, the technical constraints, and how it all pieces together into one coherent narrative.
@@ -26,7 +26,7 @@ In these early moments, your work becomes broader and more strategic. It’s les
 Your job here is to sketch the high-level shape of the experience—not the UI, but the _structure_ of the solution. You’re creating just enough clarity so everyone can point to the same thing and say, “Yeah—that’s what we’re building.” Once that alignment exists, then the detailed requirements and screens actually have something solid underneath them.
 
 
------------
+***
 ### Fidelity should match the understanding.
 
 Ok Neil… what does that even mean?  
