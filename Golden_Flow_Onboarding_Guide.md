@@ -16,7 +16,7 @@ The natural instinct is to open Figma and start mocking things up. Or open Aha a
 
 But at this stage, it’s the wrong move. Those tools can actually increase confusion or lock you into a direction before anyone even agrees on what problem you’re solving.
 
-***
+---
 **This is the moment where your role shifts. Think Product Design, not UI Design.**  
 
 You stop thinking like a _UI_ designer and step into the mindset of a _product_ designer. And yeah—the difference is huge. UI design is about the screen. Product design is about the **story**: the user, the goal, the task, the business need, the technical constraints, and how it all pieces together into one coherent narrative.
@@ -24,7 +24,9 @@ You stop thinking like a _UI_ designer and step into the mindset of a _product_ 
 In these early moments, your work becomes broader and more strategic. It’s less about components and more about **visual thinking**, **sense-making**, and **mapping the problem space**. You’re working with your triad—design, product, and engineering—to align on the user, the job they’re trying to get done, and the major building blocks required to support that journey.
 
 Your job here is to sketch the high-level shape of the experience—not the UI, but the _structure_ of the solution. You’re creating just enough clarity so everyone can point to the same thing and say, “Yeah—that’s what we’re building.” Once that alignment exists, then the detailed requirements and screens actually have something solid underneath them.
-***
+
+<hr>
+
 ### Fidelity should match the understanding.
 
 Ok Neil… what does that even mean?  
@@ -35,8 +37,6 @@ It means **don’t start in high fidelity with screens**. That's solutioning. Do
 **“I know what this is. I’m confident. This is close to final.”**
 
 *Low fidelity signals:* 
-
-<hr>
 **“We’re exploring. It’s open to interpretation. This can change. We encourage you to participate”**
 
   ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/workshop.png)
