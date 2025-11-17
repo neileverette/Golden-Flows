@@ -35,6 +35,7 @@ It means **don’t start in high fidelity with screens**. That's solutioning. Do
 **“I know what this is. I’m confident. This is close to final.”**
 
 *Low fidelity signals:* 
+
 **“We’re exploring. It’s open to interpretation. This can change. We encourage you to participate”**
 
   ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/workshop.png)
