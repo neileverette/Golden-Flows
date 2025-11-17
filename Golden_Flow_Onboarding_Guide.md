@@ -104,7 +104,7 @@ Most importantly, they help teams avoid jumping into details of UI too early—a
 
 Designers will often start with high-fidelity, component screens because **modern design systems make it a little too easy**. But this can create issues in early stage work:
 
-- Stakeholders can get distracted on detail, or "side quests"
+- Teams can get distracted on detail, or "side quests"
 - Early assumptions can become locked in - difficult to back out of
 - The design appear more stated intent, than "open-canvas", collaborative work
 - Teams spend time perfecting details that aren't core at the moment
