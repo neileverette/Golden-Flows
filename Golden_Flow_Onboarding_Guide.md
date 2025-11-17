@@ -36,6 +36,7 @@ It means **don’t start in high fidelity with screens**. That's solutioning. Do
 
 *Low fidelity signals:* 
 
+<hr>
 **“We’re exploring. It’s open to interpretation. This can change. We encourage you to participate”**
 
   ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/workshop.png)
@@ -69,7 +70,7 @@ Consider the last time you traveled. I bet your journey was similar to this:
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/flight-flow.png)
 
 Look familiar? 
-Yep. So what smarty-pants. Well we can map that story in stages. Each step later can have its own deep-dive into its own Golden Flow.
+Yep. We can map that story using a hero’s journey. The hero’s journey helps show the challenges and steps a user goes through to overcome obstacles and reach their goal. Each stage in that core journey can later have its own deep-dive, expanding into its own set of Golden Flows.
 
 
 -----------
@@ -92,7 +93,7 @@ Most importantly, they help teams avoid jumping into details of UI too early—a
 
 ### Only 31% of software projects are fully successful
 
-Yeah, its like that. We can fix that. Here's some contributors according to the experts tracking this.
+Yeah, that's pretty sobering. We can help with some of the symptoms there that. Here's some contributors according to the experts tracking this.
 
 **Common reasons software projects fail:**
 - Poor requirements definition
@@ -104,11 +105,14 @@ Yeah, its like that. We can fix that. Here's some contributors according to the 
 -----------
 ## The issues with early stage fidelity & resolution
 
-We ( designers - myself included ) will often want to start with high-fidelity, component screens because **modern design systems make it a little too easy**, and it looks way cool. **But** this can create issues in early stage work:
+We ( designers - myself included ) will often want to start screen designs, using components we have handily available. **Modern design systems make it a little too easy**, and it looks way cool, but we should step back and see the story and journey of our user firxt. 
+
+**Moving too quickly to screens** can create issues in early stage product work:
 
 - Teams can get distracted on insignificant detail, or "side quests"
 - Early assumptions can become locked in - difficult to back out of
 - Solutions shown appear to be more stated intent, than "open-canvas", collaborative work
+- Pre-built components can narrow your solution space
 - Teams spend time perfecting details that aren't core at the moment
 - The fidelity does not accurately match the maturity of thinking
 
