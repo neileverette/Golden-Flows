@@ -24,8 +24,6 @@ You stop thinking like a _UI_ designer and step into the mindset of a _product_ 
 In these early moments, your work becomes broader and more strategic. It’s less about components and more about **visual thinking**, **sense-making**, and **mapping the problem space**. You’re working with your triad—design, product, and engineering—to align on the user, the job they’re trying to get done, and the major building blocks required to support that journey.
 
 Your job here is to sketch the high-level shape of the experience—not the UI, but the _structure_ of the solution. You’re creating just enough clarity so everyone can point to the same thing and say, “Yeah—that’s what we’re building.” Once that alignment exists, then the detailed requirements and screens actually have something solid underneath them.
-
-
 ***
 ### Fidelity should match the understanding.
 
@@ -46,9 +44,7 @@ As you learn more and the solution becomes clearer, _then_ you start increasing 
 **Fidelity should rise with your confidence.** If you show a high-fidelity mockup, it should mean you have a high-fidelity understanding. In other words:
 
 **The resolution of the design should match the resolution of your clarity.**
-
-
------------
+---
 ## Introduction of Golden Flows
 
 ![Sample Journey](https://raw.githubusercontent.com/neileverette/Golden-Flows/main/Sample-journey.png)
